@@ -8,6 +8,14 @@ html, body {
     box-sizing: border-box;
 }
   
+.container{
+    background:  #f3eae8;
+}
+
+.messages{
+    background-color: white;
+}
+
 #chat {
     height: 600px !important;
 }
